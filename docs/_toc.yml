@@ -1,0 +1,37 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: Introduction
+- caption: Sound
+  chapters:
+  - file: intersphinx
+  - file: sphinx-examples
+  - file: sphinx-hoverxref
+  - file: sphinx-proof
+- caption: Lights
+  chapters:
+  - file: intersphinx
+  - file: sphinx-examples
+  - file: sphinx-hoverxref
+  - file: sphinx-proof
+- caption: Rigging
+  chapters:
+  - file: intersphinx
+  - file: sphinx-examples
+  - file: sphinx-hoverxref
+  - file: sphinx-proof
+- caption: Power
+  chapters:
+  - file: intersphinx
+  - file: sphinx-examples
+  - file: sphinx-hoverxref
+  - file: sphinx-proof
+- caption: Miscellaneous
+  chapters:
+  - file: intersphinx
+  - file: sphinx-examples
+  - file: sphinx-hoverxref
+  - file: sphinx-proof
